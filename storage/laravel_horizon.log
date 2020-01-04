@@ -1,0 +1,15 @@
+Horizon started successfully.
+[2020-01-02 17:20:49][1] Processing: App\Jobs\Api\SaveLatTokenJob
+[2020-01-02 17:20:49][1] Processed:  App\Jobs\Api\SaveLatTokenJob
+Horizon started successfully.
+Horizon started successfully.
+[2020-01-03 08:18:12][2] Processing: App\Jobs\Api\SaveLatTokenJob
+[2020-01-03 08:18:12][2] Processed:  App\Jobs\Api\SaveLatTokenJob
+Horizon started successfully.
+[2020-01-03 08:32:35][3] Processing: App\Jobs\Api\SaveLatTokenJob
+[2020-01-03 08:32:35][3] Processed:  App\Jobs\Api\SaveLatTokenJob
+[2020-01-03 08:32:38][4] Processing: App\Jobs\Api\SaveLatTokenJob
+[2020-01-03 08:32:38][4] Processed:  App\Jobs\Api\SaveLatTokenJob
+Horizon started successfully.
+Horizon started successfully.
+Horizon started successfully.
